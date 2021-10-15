@@ -5,6 +5,7 @@ import Home from './Pages/Home/Home/Home';
 import Login from './Pages/Login/Login/Login';
 import Signup from './Pages/Login/Signup/Signup';
 import NotFound from './Pages/NotFound/NotFound';
+import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
             <NotFound></NotFound>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );

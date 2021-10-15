@@ -1,0 +1,10 @@
+.footer-contairner {
+    height: 250px;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    text-align: left;
+}
+
