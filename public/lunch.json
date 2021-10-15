@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "61684b01988f413d9cc89e54",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch1.png",
+        "title": "Healthy Meal Plan",
+        "description": "The Mediterranean diet has long been recognized as one of the healthiest and most delicious ways to eat. The core concept behind this healthy diet is to eat like the people who live in the Mediterranean region by filling your plate with fresh fruits and vegetables, healthy fats, whole grains, legumes, fish and other lean protein, and enjoying moderate amounts of red wine. Beyond simply you're putting on your plate, the Mediterranean diet also emphasizes healthy lifestyle habits, which include practicing mindful eating.",
+        "price": "23.99"
+    },
+    {
+        "_id": "61684b013c2228cd8b8a6432",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch2.png",
+        "title": "Fried Chicken Bento",
+        "description": "Before getting into the details of how to pack Karaage Bento, I would like to introduce some of the bento boxes that you can buy.A bento box doesn’t have to be fancy and it can well be a plastic Chinese take away container. But in Japan, people often have their own bento box and become attached to it. It’s a similar feeling to having your favourite coffee cup and using it every day.",
+        "price": "9.99"
+    },
+    {
+        "_id": "61684b011930cd752bdf701b",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch3.png",
+        "title": "Tarragon-Rubbed-Salmon",
+        "description": "Meanwhile, in cup, place chopped red onion; cover with cold water and let sit 10 minutes. (This will take some of the sharpness out of the raw onion.) In medium bowl, stir together remaining salsa ingredients: chopped nectarines, chopped red pepper, finely chopped jalapeño, lime juice, chopped cilantro, and 1/4 teaspoon salt; set aside.",
+        "price": "6.99"
+    },
+    {
+        "_id": "61684b01f8730b240655388a",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch4.png",
+        "title": "Indian Lunch",
+        "description": "Meanwhile, in cup, place chopped red onion; cover with cold water and let sit 10 minutes. (This will take some of the sharpness out of the raw onion.) In medium bowl, stir together remaining salsa ingredients: chopped nectarines, chopped red pepper, finely chopped jalapeño, lime juice, chopped cilantro, and 1/4 teaspoon salt; set aside.",
+        "price": "8.99"
+    },
+    {
+        "_id": "61684b015ee1c6d3263cd1cc",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch5.png",
+        "title": "Beaf Steak",
+        "description": "Bistek Tagalog is a type of Filipino beef stew. This is also known as Beefsteak to some people. It is comprised of thin slices of beef and a generous amount of onions. These are stewed in a soy sauce and lemon juice mixture until the beef gets very tender. It is best enjoyed with warm rice. In my opinion, there is a huge possibility that the term Bistek was derived from the words “beef steak”. I have not done the research yet. It is appreciated if you can provide facts about the history of this beloved Filipino dish. Don’t be shy. The comments section is located below this recipe post.",
+        "price": "15.99"
+    },
+    {
+        "_id": "61684b01324f6cf546d557b2",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/lunch/lunch6.png",
+        "title": "Honey-Soy-Glazed Salmon with Peppers",
+        "description": "First, make sure your salmon and grill is well oiled. Then, add your salmon fillets skinless side down on the grill–this ensures you get those delicious grill marks on top. Cook for about 4-5 minutes, depending on the thickness of the fillet, then carefully flip onto the skin side. Cook for another 4-5 minutes until salmon flakes easily with a fork. You can also simply wrap the salmon in foil and cook for 10-12 minutes until done. ",
+        "price": "7.99"
+    }
+]

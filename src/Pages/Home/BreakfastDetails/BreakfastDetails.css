@@ -1,0 +1,10 @@
+.breakfast-details {
+    padding: 20px;
+}
+
+.breakfast-details:hover {
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "61684b01d7df205346222ab3",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner1.png",
+        "title": "Salmon with Grapefruit and Lentil Salad",
+        "description": "Heat 1 tablespoon oil in a large nonstick skillet on medium. Cut salmon into 4 pieces and season with 1/4 teaspoon each salt and pepper. Cook until golden brown, about 7 minutes. Turn salmon over and continue cooking until just opaque throughout, about 2 minutes more.Meanwhile, in a large bowl, whisk together vinegar and remaining Tbsp oil. Add lentils and toss to coat then toss with cucumber, grapefruit and radishes. Fold in arugula and serve with salmon.",
+        "price": "9.99"
+    },
+    {
+        "_id": "61684b01374bbe6a9efcd0fb",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner2.png",
+        "title": "Lemony Salmon Piccata",
+        "description": "Originally from Italy, Piccata is traditionally made with Veal. This may not be ‘the real deal’ or ‘the most authentic’ Piccata recipe due to being cooked with salmon, however, the unmistakeable Piccata flavours in this Salmon version are all right there in the skillet! After all, the flavour is all that matters when sitting down to enjoy a plate full of food. Yes?",
+        "price": "10.99"
+    },
+    {
+        "_id": "61684b01cff879d77addd00a",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner3.png",
+        "title": "Pork Tenderloion with Quinoa Pilaf",
+        "description": "Heat 1 Tbsp oil in a medium saucepan on medium. Add garlic and cook, stirring occasionally, until toasted, about 2 minutes. Add quinoa and cook per pkg. directions. Fluff with a fork and fold in spinach.While quinoa cooks, heat a skillet on medium. Add remaining Tbsp oil, season pork with ½ tsp each salt and pepper, and cook until browned on all sides and an instant-read thermometer registers 145°F, 12 to 14 minutes.",
+        "price": "12.99"
+    },
+    {
+        "_id": "61684b01169d58605787e56d",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner4.png",
+        "title": "French Fries with Cheese",
+        "description": "Place the fries on a cookie sheet and bake them in an oven.Now, take a pan and add the white sauce to it. Heat it over medium flame, sprinkle the cheese and stir till it forms a creamy sauce. (You can make the white sauce at home by adding two-three tsp white flour to cold milk and then letting it simmer on low flame till it thickens. Season it with salt and pepper.)",
+        "price": "8.99"
+    },
+    {
+        "_id": "61684b01dcfb03ce8565abec",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner5.png",
+        "title": "Garlic Butter Baked Salmon",
+        "description": "Garlic butter smothered salmon is a given. It’s possibly one of the most amazing, delicious ways to eat a juicy piece of salmon and gets cooked twice a week in this house. It’s been a while since we gave you salmon and it’s time.Normally you may opt for pan seared salmon for a guaranteed crisp exterior with a fork tender interior. Our baked salmon recipe delivers soft, juicy and tender salmon on the inside with charred crisp edges. A delicious restaurant-quality dinner!",
+        "price": "6.99"
+    },
+    {
+        "id": "61684bc212483131460dbb8a",
+        "img": "https://raw.githubusercontent.com/Jayeen29/jayeens-kitchen/main/foodData-and-images/images/Dinner/dinner6.png",
+        "title": "Baked Chicken",
+        "description": "As simple as it sounds, if you whack a seasoned breast in the oven without thought, the chances are you’ll be chewing your way through dry chicken, furiously squirting over copious amounts of ketchup to try to salvage it.It doesn’t need to be that way. Enter – a fabulous simple, magic chicken seasoning for baked chicken breast. So you can coat the breast thoroughly and give it a beautiful crust without overpowering it.",
+        "price": "9.99"
+    }
+]

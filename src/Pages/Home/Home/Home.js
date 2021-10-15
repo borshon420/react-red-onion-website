@@ -1,14 +1,17 @@
 import React from 'react';
 import { Button, FormControl, InputGroup } from 'react-bootstrap';
+import Breakfast from '../Breakfast/Breakfast';
+import Dinner from '../Dinner/Dinner';
+import Lunch from '../Lunch/Lunch';
 import './Home.css';
 
 const Home = () => {
     return (
         <div className="mt-5">
-            <main>
-                {/* banner section */}
-                <div className="banner-section">
-                    <div className="banner-head">
+            <div>
+                {/* Header section */}
+                <div className="header-section">
+                    <div className="heading">
                         <h1>Best food waiting for your belly</h1>
                     </div>
                     <div className="banner-input">
@@ -24,7 +27,10 @@ const Home = () => {
                     </InputGroup>
                     </div>
                 </div>
-            </main>
+            </div>
+            <Breakfast></Breakfast>
+            <Lunch></Lunch>
+            <Dinner></Dinner>
         </div>
     );
 };
