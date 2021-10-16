@@ -1,5 +1,6 @@
 import React from "react";
-import { Card } from "react-bootstrap";
+import { Button, Card } from "react-bootstrap";
+import { Link } from "react-router-dom";
 
 const LunchDetails = ({ lunchDetails }) => {
   const { img, price, title, description } = lunchDetails;
@@ -17,6 +18,9 @@ const LunchDetails = ({ lunchDetails }) => {
               <Card.Title>{title}</Card.Title>
               <Card.Text>{description.slice(0, 100)}</Card.Text>
               <Card.Title>${price}</Card.Title>
+              <Link to="/login">
+          <Button  className="btn btn-danger">Add to Cart</Button>
+          </Link>
             </Card.Body>
           </Card>
         </div>

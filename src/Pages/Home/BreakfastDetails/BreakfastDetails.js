@@ -1,9 +1,10 @@
 import React from "react";
-import { Card } from "react-bootstrap";
+import { Button, Card } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import './BreakfastDetails.css';
 
 const BreakfastDetails = ({ breakfastDetails }) => {
-  const { title, img, price, description } = breakfastDetails;
+  const { title, img, price, description} = breakfastDetails;
   return (
     <div>
       <div className="breakfast-details">
@@ -15,6 +16,10 @@ const BreakfastDetails = ({ breakfastDetails }) => {
             {description.slice(0, 100)}
           </Card.Text>
           <Card.Title>${price}</Card.Title>
+          <Link to="/login">
+          <Button  className="btn btn-danger">Add to Cart</Button>
+          </Link>
+          
         </Card.Body>
       </Card>
       </div>

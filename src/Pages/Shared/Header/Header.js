@@ -11,7 +11,9 @@ const Header = () => {
     <>
         <Navbar className="nav-container" fixed="top">
             <Container>
+                <Link to="/">
                 <img style={{height: '50px'}} src={logo} alt="" />
+                </Link>
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end">
                 <Navbar.Text>

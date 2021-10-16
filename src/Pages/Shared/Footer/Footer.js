@@ -1,13 +1,16 @@
 import React from 'react';
 import './Footer.css';
 import footerLogo from '../../../images/logo.png';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
        
         <div className="footer-contairner">
             <div className="footer-logo">
+                <Link to="/">
                 <img style={{height: '50px'}} src={footerLogo} alt="" />
+                </Link>
             </div>
             <div className="footer-content-1">
                 <p>About Online food</p>

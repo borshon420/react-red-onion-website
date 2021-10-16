@@ -7,6 +7,7 @@ import Signup from './Pages/Login/Signup/Signup';
 import NotFound from './Pages/NotFound/NotFound';
 import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
+import SingleMeal from './Pages/SingleMeal/SingleMeal';
 
 function App() {
   return (
@@ -25,6 +26,9 @@ function App() {
           </Route>
           <Route path="/signup">
             <Signup></Signup>
+          </Route>
+          <Route path="/meal/:mealId">
+            <SingleMeal></SingleMeal>
           </Route>
           <Route path="*">
             <NotFound></NotFound>
